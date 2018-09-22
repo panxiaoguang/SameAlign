@@ -16,4 +16,4 @@ If it's Windows, open <code>Windows PowerShell</code></br>
 <code>cd</code> goes into the desired directory</br>
 <code>Python -i fastafile</code>
 <h2>Results:</h2>
-<p style="text-indent: 2em;">You can get all non-duplicated AC number list output, plus the same AC number will give a hint.</p>
+<p style="text-indent: 2em;">You can get all non-duplicated AC number list output, the same AC number will give a hint at the same time.</p>
