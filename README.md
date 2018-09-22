@@ -12,7 +12,7 @@ One key to find the same protein sequence
 <li style="color: black;">Hydrophobic amino acids , Ala, Val, Ile, Leu, Pro, Trp, Phe, Met</li>
 </ul>
 <h2>Usage:</h2>
-If it's Windows, enter CMD
+If it's Windows, enter CMD</br>
 cd goes into the desired directory</br>
 <code>Python -i fastafile</code>
 <h2>Results:</h2>
