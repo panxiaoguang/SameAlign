@@ -13,7 +13,7 @@ One key to find the same protein sequence
 </ul>
 <h2>Usage:</h2>
 If it's Windows, enter CMD
-cd goes into the desired directory
+cd goes into the desired directory</br>
 <code>Python -i fastafile</code>
 <h2>Results:</h2>
 <p style="text-indent: 2em;">You can get all non-duplicated AC number list output, plus the same AC number will give a hint.</p>
