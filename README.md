@@ -8,7 +8,7 @@ One key to find the same protein sequence
 <ul>
 <li class="success">Polar amino acid  : Gly, Ser, Thr, Tyr, Gys, Gln,Asn</li>
 <li class="danger"> Acidic amino acids  : Asp,Glu</li>
-<li class="primary">Basic amino acids  : Arg,Lys,His</li>
+<li class="primary">Alkaline amino acids  : Arg,Lys,His</li>
 <li style="color: black;">Hydrophobic amino acids , Ala, Val, Ile, Leu, Pro, Trp, Phe, Met</li>
 </ul>
 <h2>Usage:</h2>
